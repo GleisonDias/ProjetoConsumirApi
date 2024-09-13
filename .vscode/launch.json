@@ -1,0 +1,31 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "ProjetoConsumirApi",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "ProjetoConsumirApi (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "ProjetoConsumirApi (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "dart_application_1",
+            "cwd": "dart_application_1",
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}
